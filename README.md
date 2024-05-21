@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @varshikasai
+- 👋 Hi, I’m sai varshika
 - 👀 I’m interested in technical fields of cse
 - 🌱 I’m currently a UG student
 - 💞️ I’m looking to collaborate on ...
